@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "id": "my-skin",
+  "name": "My skin1",
+  "layout": "classic",
+  "version": 1,
+  "layoutGraph": {
+    "detail": {
+      "poster": {
+        "x": 21,
+        "y": 12,
+        "w": 273,
+        "h": 367
+      },
+      "title": {
+        "x": 312,
+        "y": 17,
+        "w": 500,
+        "h": 60
+      },
+      "meta": {
+        "x": 311,
+        "y": 85,
+        "w": 500,
+        "h": 32
+      },
+      "synopsis": {
+        "x": 309,
+        "y": 126,
+        "w": 496,
+        "h": 183
+      },
+      "actions": {
+        "x": 309,
+        "y": 316,
+        "w": 460,
+        "h": 48
+      },
+      "episodes": {
+        "x": 15,
+        "y": 396,
+        "w": 945,
+        "h": 151
+      },
+      "hidden": [
+        "cast",
+        "related"
+      ]
+    },
+    "screens": {
+      "movies": {
+        "browse": {
+          "filters": {
+            "x": 299,
+            "y": 129,
+            "w": 321,
+            "h": 46
+          },
+          "row": {
+            "x": -1,
+            "y": 182,
+            "w": 961,
+            "h": 361
+          },
+          "caption": {
+            "x": 4,
+            "y": 1,
+            "w": 948,
+            "h": 125
+          },
+          "nav": {
+            "position": "side",
+            "size": 50
+          }
+        }
+      }
+    }
+  }
+}
